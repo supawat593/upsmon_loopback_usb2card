@@ -79,9 +79,9 @@
     {
         "module": "main.o",
         "size": {
-            ".text": 730,
+            ".text": 856,
             ".data": 0,
-            ".bss": 2020,
+            ".bss": 2256,
             ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
@@ -112,7 +112,7 @@
     {
         "module": "mbed-os\\drivers",
         "size": {
-            ".text": 13017,
+            ".text": 13115,
             ".data": 0,
             ".bss": 2,
             ".text-delta": 0,
@@ -177,9 +177,9 @@
     },
     {
         "summary": {
-            "static_ram": 12679,
+            "static_ram": 12915,
             "static_ram_delta": 0,
-            "total_flash": 65767,
+            "total_flash": 65991,
             "total_flash_delta": 0
         }
     }
